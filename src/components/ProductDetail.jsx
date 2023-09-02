@@ -25,7 +25,7 @@ const ProductDetail = () => {
 
       }
       fecthSingleProduct()
-  }, [])
+  }, [id])
 
   return (
     <div>
