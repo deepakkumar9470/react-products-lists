@@ -1,6 +1,5 @@
 import React from 'react'
 import {AiOutlineHeart} from 'react-icons/ai'
-import {FaRegStar} from 'react-icons/fa'
 import {BsCurrencyDollar} from 'react-icons/bs'
 import { Link } from 'react-router-dom'
 import Rating from './Rating'
